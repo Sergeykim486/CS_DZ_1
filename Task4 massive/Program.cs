@@ -27,7 +27,6 @@
         Console.WriteLine("Максимальное число: "+numbers[max]);
 }
 
-
 catch
 {
     Console.WriteLine("Вы ввели не целое число!!!");
