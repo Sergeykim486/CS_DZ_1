@@ -4,9 +4,9 @@
     int a = Convert.ToInt32(Console.ReadLine());
     int x = a%2;
     if (x == 0)
-        Console.WriteLine("Да.");
+        Console.WriteLine("Да. Число является четным.");
     else
-        Console.WriteLine("Нет.");
+        Console.WriteLine("Нет. Число не является четным.");
 }
 
 catch

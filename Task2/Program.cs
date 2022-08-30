@@ -5,9 +5,9 @@
     Console.WriteLine("Введите второе целое число...");
     int b = Convert.ToInt32(Console.ReadLine());
     if (a>=b)
-        Console.WriteLine("максимальное число; "+a);
+        Console.WriteLine("максимальное число: "+a);
     else
-        Console.WriteLine("максимальное число; "+b);
+        Console.WriteLine("максимальное число: "+b);
 }
 
 catch
